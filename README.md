@@ -1,38 +1,21 @@
-<h1 align="center">Hola 👋, soy Marcos Palomo</h1>
-<h3 align="center">Soy un aficionado de la programación nacido en México</h3>
+# 💫 About Me:
+Me llamo Marcos Palomo, tengo 21 años. Soy un hombre originario de Monclova Coahuila Mexico. Actualmente me encuentro cursando el séptimo semestre de la carrera de ingenieria informatica en el tecnologico superior de Monclova.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosjpac&label=Profile%20views&color=0e75b6&style=flat" alt="marcosjpac" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcosjpac" alt="marcosjpac" /></a> </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/GUN43A6F) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100004815103707) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/macros_exe) 
 
-- 🔭 Actualmente estoy trabajando en... [bases de datos distribuidas](#)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MarcosJPaC&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MarcosJPaC&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosJPaC&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌱 Actualmente estoy aprendiendo **.Net Core, SQL Server y MySQL**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MarcosJPaC&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 👯 Espero colaborar con... [mi equipo](#)
+---
+[![](https://visitcount.itsvg.in/api?id=MarcosJPaC&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🤝 Necesito un poco de ayuda con [la codificación de base de datos](#)
-
-- 👨‍💻 Todos mis repositorios están disponibles en... [https://github.com/MarcosJPaC?tab=repositories](https://github.com/MarcosJPaC?tab=repositories)
-
-- 💬 Pueden preguntarme acerca de **C#, PHP, etc**
-
-- 📫 Puedes contactarme en **marcospalomo.2b@gmail.com**
-
-- ⚡ Fun fact **تبول بلدي يؤلمني**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/marcos palomo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marcos palomo" height="30" width="40" /></a>
-<a href="https://instagram.com/macros_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="macros_exe" height="30" width="40" /></a>
-<a href="https://discord.gg/marquitos toys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="marquitos toys" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosjpac&show_icons=true&locale=en&layout=compact" alt="marcosjpac" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosjpac&show_icons=true&locale=en" alt="marcosjpac" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosjpac&" alt="marcosjpac" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
